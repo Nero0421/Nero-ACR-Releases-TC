@@ -1,0 +1,17 @@
+{
+  "author": "Nero",
+  "version": "1.0.0.4",
+  "description": "\u8BF7\u5403\u5DE7\u529B\u7206\u53D1\u836F!!!",
+  "supportedJobs": [
+    {
+      "job": "VPR",
+      "contentScope": "Unspecified"
+    }
+  ],
+  "apiVersion": 12,
+  "referencePromeVersion": "1.2.2.4",
+  "downloadUrl": "https://raw.githubusercontent.com/Nero0421/Nero-ACR-Releases-TC/main/prome-community-package/Nero.zip",
+  "sourceRepositoryUrl": "https://github.com/Nero0421/Nero-PR-Rotations-TC",
+  "sponsorUrl": "",
+  "sha256": "d81c20c561ebf8f951ec10d952ad9bf36c13db947d9ace0080c6032a19ac058b"
+}
