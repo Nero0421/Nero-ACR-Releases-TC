@@ -1,6 +1,6 @@
 # Nero-ACR-Releases-TC
 
-Nero蝰蛇 ACR 繁中服(API12)混淆成品发布仓库。
+Nero ACR 繁中服(TC)混淆成品发布仓库,蝰蛇(VPR)+ 镰刀(RPR)合包。
 
 社区订阅索引(raw 直链):
 ```
