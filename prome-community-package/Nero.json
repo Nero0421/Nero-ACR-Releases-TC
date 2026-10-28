@@ -1,6 +1,6 @@
 {
   "author": "Nero",
-  "version": "1.0.8.1",
+  "version": "1.0.8.2",
   "description": "\u652F\u6301\u9AD8\u96BE/\u65E5\u968F\uFF0C\u6709\u4EFB\u4F55\u610F\u89C1\u8BF7\u8054\u7CFB\u6211",
   "supportedJobs": [
     {
@@ -57,5 +57,5 @@
   "downloadUrl": "https://raw.githubusercontent.com/Nero0421/Nero-ACR-Releases-TC/main/prome-community-package/Nero.zip",
   "sourceRepositoryUrl": "https://github.com/Nero0421/Nero-PR-Rotations-TC",
   "sponsorUrl": "",
-  "sha256": "8850735fae16b0eac2c5411427f4a8e0dad8efb843eda5f7f0a4fba3ce688efb"
+  "sha256": "76c9406cc9c5d101f778fb84ff10d95c7d670783009f094acb51f3bdcfd81885"
 }
